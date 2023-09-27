@@ -1,0 +1,32 @@
+<RCC>
+  <qresource prefix="fonts">
+    <file>fonts/Manrope-Bold.ttf</file>
+    <file>fonts/Manrope-ExtraBold.ttf</file>
+    <file>fonts/Manrope-ExtraLight.ttf</file>
+    <file>fonts/Manrope-Light.ttf</file>
+    <file>fonts/Manrope-Medium.ttf</file>
+    <file>fonts/Manrope-Regular.ttf</file>
+    <file>fonts/Manrope-SemiBold.ttf</file>
+  </qresource>
+  <qresource prefix="icons">
+    <file>icons/arrow_down.svg</file>
+    <file>icons/arrow_up.svg</file>
+    <file>icons/checkbox_off.svg</file>
+    <file>icons/checkbox_on.svg</file>
+    <file>icons/Logo.svg</file>
+    <file>icons/settings.svg</file>
+    <file>icons/arrow_down.svg</file>
+    <file>icons/arrow_up.svg</file>
+    <file>icons/checkbox_off.svg</file>
+    <file>icons/checkbox_on.svg</file>
+    <file>icons/settings.svg</file>
+  </qresource>
+  <qresource prefix="images">
+    <file>img/backgraund (1).jpg</file>
+    <file>img/backgraund.jpg</file>
+    <file>img/BINANCE.png</file>
+    <file>img/Group 4.png</file>
+    <file>img/Layer_1 0.png</file>
+    <file>img/Navigation.png</file>
+  </qresource>
+</RCC>

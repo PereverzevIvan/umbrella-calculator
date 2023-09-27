@@ -1,0 +1,13 @@
+certifi==2023.7.22
+charset-normalizer==3.2.0
+gevent==23.7.0
+greenlet==2.0.2
+idna==3.4
+PyQt5==5.15.9
+PyQt5-Qt5==5.15.2
+PyQt5-sip==12.12.2
+requests==2.31.0
+urllib3==2.0.4
+websocket-client==1.6.2
+zope.event==5.0
+zope.interface==6.0
